@@ -1,0 +1,3 @@
+[submodule "curso-javascript-ninja"]
+	path = curso-javascript-ninja
+	url = git@github.com:noriskii/curso-javascript-ninja.git
