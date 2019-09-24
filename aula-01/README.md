@@ -80,7 +80,7 @@ x += 20;
 > true
 ```
 
-## Funções
+## Funções I
 É um de código nomeado que é chamado utilizando o operador ().  
 *Funções criam escopo.
 ```js

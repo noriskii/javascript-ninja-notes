@@ -1,6 +1,6 @@
 # Aula 5
 
-## Funções
+## Funções II
 
 ### Retorno:
 ```js
