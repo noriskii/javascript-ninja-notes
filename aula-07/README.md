@@ -16,7 +16,7 @@ while(num <= 20) {
 // Vai printar todos os números pares
 ```
 
-## Arrays
+## Arrays I:
 
 ### length:
 A propriedade **length** retorna a quantidade de valores que temos em um array.
