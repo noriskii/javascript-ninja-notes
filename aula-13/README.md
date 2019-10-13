@@ -51,7 +51,7 @@ arr.every(function(item) {
 
 // some(function(item) {}) segue o mesmo método que o every, porém, ele verifica se pelo menos 1 item no array seja true para que ele retorne true.
 arr = [1,2,3,4,5,6,7];
-arr.every(function(item) {
+arr.some(function(item) {
     return item % 2 === 0; // true
 });
 
