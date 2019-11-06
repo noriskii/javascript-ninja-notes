@@ -1,6 +1,6 @@
 # Aula 15
 
-## JS no Browser:
+## JS no Browser I:
 ```html
 <script></script>
 <script src='folder/file.js'></script>
